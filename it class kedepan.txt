@@ -3,5 +3,8 @@ informathic class hmpi
   * Figma
 - PHP
  * CI4
+ * AdminLTE
+ * PostgreSQL
 - Python
  * Django 4.2LTS
+ * Flask
