@@ -2,4 +2,6 @@ informathic class hmpi
 - desain
   * Figma
 - PHP
+ * CI4
 - Python
+ * Django 4.2LTS
