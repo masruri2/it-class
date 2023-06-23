@@ -4,3 +4,4 @@ informathic class hmpi
 - PHP
  * CI4
 - Python
+ * Django 4.2LTS
