@@ -1,0 +1,3 @@
+informathic class hmpi
+- desain
+- git & github
