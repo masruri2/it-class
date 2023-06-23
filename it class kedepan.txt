@@ -5,6 +5,8 @@ informathic class hmpi
  * CI4
  * AdminLTE
  * PostgreSQL
+ * Laravel
+ * Mysql
 - Python
  * Django 4.2LTS
  * Flask
